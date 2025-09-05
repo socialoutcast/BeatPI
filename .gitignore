@@ -1,0 +1,61 @@
+# Build artifacts
+*.img
+*.img.gz
+*.img.xz
+*.zip
+build/
+output/
+work/
+
+# Cache
+cache/
+.cache/
+*.cache
+
+# Config files with secrets
+config.json
+spotify_config.json
+*.key
+*.crt
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# Logs
+*.log
+logs/
+
+# Release files
+release-*/
+*.password
