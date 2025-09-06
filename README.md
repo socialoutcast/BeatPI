@@ -3,14 +3,13 @@
 **Transform any Raspberry Pi into a secure, parent-controlled Spotify music player designed specifically for children.**
 
 ![BeatPi](https://img.shields.io/badge/BeatPi-Music%20Player-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/socialoutcast/BeatPI?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
 
 ## 🚀 Quick Start - Pre-built Image
 
-**Latest Release:** [BeatPi v1.2.0](https://github.com/socialoutcast/BeatPI/releases/latest)
+**Latest Release:** Coming Soon!
 
-Download the `.img.xz` file from the releases page.
+Pre-built images will be available on the releases page. For now, you can build your own image using the source code.
 
 ## 📦 Installation with Raspberry Pi Imager
 
@@ -213,7 +212,11 @@ Without network access, the setup will fail.
 
 ## 📄 License
 
-MIT License - See [LICENSE](LICENSE) file for details.
+**PROPRIETARY SOFTWARE** - Copyright © 2025 SavageIndustries
+
+This is proprietary software. Unauthorized copying, modification, distribution, or reverse engineering is strictly prohibited.
+
+For commercial licensing inquiries, please contact: support@savageindustries.com
 
 ## ⚠️ Disclaimers
 
