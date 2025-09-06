@@ -5,6 +5,7 @@
 # Only keep these files
 !README.md
 !LICENSE
+!COMMERCIAL_LICENSE.md
 !.gitignore
 
 # Make sure to ignore all source code and build artifacts
